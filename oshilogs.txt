@@ -12,43 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Liola =====
-[1]Liola       |07:46:27 | 28-10-2026| login OK @liolacarlina | score=2210 rank=3591
-[1]Liola       |07:46:27 | 28-10-2026| serverTime=2026-10-28T07:46:27.000Z local=2026-10-28T07:46:27.066Z
+[1]Liola       |07:52:05 | 29-10-2026| login OK @liolacarlina | score=2270 rank=3520
+[1]Liola       |07:52:05 | 29-10-2026| serverTime=2026-10-29T07:52:05.000Z local=2026-10-29T07:52:05.271Z
 --> [1]Liola menjalankan: Claim Daily
-[1]Liola       |07:46:28 | 28-10-2026| daily: OK +10 poin score=2220
---> [1]Liola menjalankan: Auto All Tasks (5 pending)
-[1]Liola       |07:46:30 | 28-10-2026| [1/5] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/liolacarlina/status/2115349070285389598
-[1]Liola       |07:46:30 | 28-10-2026| delay 10s...
-[1]Liola       |07:46:42 | 28-10-2026| [2/5] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/liolacarlina/status/2115349178655085148
-[1]Liola       |07:46:42 | 28-10-2026| delay 10s...
-[1]Liola       |07:46:54 | 28-10-2026| [3/5] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/liolacarlina/status/2115349225729247446
-[1]Liola       |07:46:54 | 28-10-2026| delay 10s...
-[1]Liola       |07:47:06 | 28-10-2026| [4/5] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/liolacarlina/status/2115348990418249939
-[1]Liola       |07:47:06 | 28-10-2026| delay 10s...
-[1]Liola       |07:47:18 | 28-10-2026| [5/5] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/liolacarlina/status/2115349405976289939
-[1]Liola       |07:47:18 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Liola       |07:47:19 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/liolacarlina/status/2115349313377781371
+[1]Liola       |07:52:07 | 29-10-2026| daily: OK +10 poin score=2280
+--> [1]Liola menjalankan: Auto All Tasks (9 pending)
+[1]Liola       |07:52:08 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115712848301496588
+[1]Liola       |07:52:08 | 29-10-2026| delay 10s...
+[1]Liola       |07:52:20 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115712994718573321
+[1]Liola       |07:52:20 | 29-10-2026| delay 10s...
+[1]Liola       |07:52:33 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115713111649580709
+[1]Liola       |07:52:33 | 29-10-2026| delay 10s...
+[1]Liola       |07:52:46 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115713025180467969
+[1]Liola       |07:52:46 | 29-10-2026| delay 10s...
+[1]Liola       |07:52:58 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115712922105006895
+[1]Liola       |07:52:58 | 29-10-2026| delay 10s...
+[1]Liola       |07:53:10 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115713069296489910
+[1]Liola       |07:53:10 | 29-10-2026| delay 10s...
+[1]Liola       |07:53:22 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115713325879234743
+[1]Liola       |07:53:22 | 29-10-2026| delay 10s...
+[1]Liola       |07:53:35 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/liolacarlina/status/2115713149676768566
+[1]Liola       |07:53:35 | 29-10-2026| delay 10s...
+[1]Liola       |07:53:47 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
+[1]Liola       |07:53:47 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Liola       |07:53:49 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/liolacarlina/status/2115713390893931910
 --> [1]Liola menjalankan: Watch Anime
-[1]Liola       |07:47:20 | 28-10-2026| watch: semua video sudah completed
+[1]Liola       |07:53:50 | 29-10-2026| watch: semua video sudah completed
 --> [1]Liola menjalankan: Read Article
-[1]Liola       |07:47:22 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Liola       |07:47:22 | 28-10-2026| mint eligibility: {"userId":"2009796173402640384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liolacarlina","status":"submitted","revision":"17745dfd-5a03-42fa-be3c-e8bcb7158
-[1]Liola       |07:47:22 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Liola       |07:53:52 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Liola       |07:53:52 | 29-10-2026| mint eligibility: {"userId":"2009796173402640384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liolacarlina","status":"submitted","revision":"17745dfd-5a03-42fa-be3c-e8bcb7158
+[1]Liola       |07:53:52 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Liola menjalankan: Quiz Anime
 --> [1]Liola menjalankan: Music Missions (realtime, bisa lama!)
-[1]Liola       |07:47:24 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Liola       |07:47:25 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Liola       |07:47:25 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Liola       |07:47:25 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Liola       |07:53:55 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Liola       |07:53:55 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Liola       |07:53:55 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liola       |07:53:55 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liola menjalankan: Claim Missions
-[1]Liola       |07:47:25 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Liola       |07:47:25 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Liola       |07:47:25 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Liola       |07:53:56 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Liola       |07:53:56 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liola       |07:53:56 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liola menjalankan: Check Eligibility
 
 --- eligibility [1]Liola ---
-  @liolacarlina | score=2210 rank=3591
-  tasks    [##############------] 12/17
+  @liolacarlina | score=2270 rank=3520
+  tasks    [######--------------] 4/13
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,15 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Liola menjalankan: Read Manga
-[1]Liola       |07:47:29 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Liola       |07:54:01 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Liola menjalankan: Get Gift
-[1]Liola       |07:47:30 | 28-10-2026| gift: 1/5 belum diterima
-[1]Liola       |07:47:31 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Liola       |07:54:01 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Liola menjalankan: Setup Profile
-[1]Liola       |07:47:34 | 28-10-2026| profile: bio="https://x.com/liolacarlina" fav=yuki rewardAt=1791694489
-[1]Liola       |07:47:34 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Liola       |07:54:02 | 29-10-2026| profile: bio="https://x.com/liolacarlina" fav=yuki rewardAt=1791694489
+[1]Liola       |07:54:02 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Liola menjalankan: Bind Wallet
-[1]Liola       |07:47:34 | 28-10-2026| wallet: sudah terikat E1NuEYPRbU... (solana)
+[1]Liola       |07:54:02 | 29-10-2026| wallet: sudah terikat E1NuEYPRbU... (solana)
 
 == RINGKASAN ==
-- Liola: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Liola: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
