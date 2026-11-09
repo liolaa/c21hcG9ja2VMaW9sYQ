@@ -12,56 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Liola =====
-[1]Liola       |11:49:38 | 08-11-2026| login OK @liolacarlina | score=2930 rank=2658
-[1]Liola       |11:49:38 | 08-11-2026| serverTime=2026-11-08T11:49:38.000Z local=2026-11-08T11:49:38.217Z
+[1]Liola       |13:44:12 | 09-11-2026| login OK @liolacarlina | score=2990 rank=2618
+[1]Liola       |13:44:12 | 09-11-2026| serverTime=2026-11-09T13:44:12.000Z local=2026-11-09T13:44:12.901Z
 --> [1]Liola menjalankan: Claim Daily
-[1]Liola       |11:49:40 | 08-11-2026| daily: OK +10 poin score=2940
---> [1]Liola menjalankan: Auto All Tasks (6 pending)
-[1]Liola       |11:49:42 | 08-11-2026| [1/6] 360d1d0f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211939489802999 | proof=https://x.com/liolacarlina/status/2119396518737365204
-[1]Liola       |11:49:42 | 08-11-2026| delay 10s...
-[1]Liola       |11:49:55 | 08-11-2026| [2/6] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211939489802999 | proof=https://x.com/liolacarlina/status/2119396390821351077
-[1]Liola       |11:49:55 | 08-11-2026| delay 10s...
-[1]Liola       |11:50:08 | 08-11-2026| [3/6] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211939489802999 | proof=https://x.com/liolacarlina/status/2119396502062988212
-[1]Liola       |11:50:08 | 08-11-2026| delay 10s...
-[1]Liola       |11:50:22 | 08-11-2026| [4/6] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211939489802999 | proof=https://x.com/liolacarlina/status/2119396538988590176
-[1]Liola       |11:50:22 | 08-11-2026| delay 10s...
-[1]Liola       |11:50:34 | 08-11-2026| [5/6] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211939489802999 | proof=https://x.com/liolacarlina/status/2119396634510600125
-[1]Liola       |11:50:34 | 08-11-2026| delay 10s...
-[1]Liola       |11:50:46 | 08-11-2026| [6/6] ceb22d73 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/liolacarlina/status/2119396725375304853
-[1]Liola       |11:50:46 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Liola       |11:50:49 | 08-11-2026| [1/1] 360d1d0f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"360d1d0f-2fbc-4af7-b0da-95c0e48ea333","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119394898029990 | proof=https://x.com/liolacarlina/status/2119396716993726241
+[1]Liola       |13:44:14 | 09-11-2026| daily: OK +10 poin score=3000
+--> [1]Liola menjalankan: Auto All Tasks (2 pending)
+[1]Liola       |13:44:16 | 09-11-2026| [1/2] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/liolacarlina/status/2119787565395625298
+[1]Liola       |13:44:16 | 09-11-2026| delay 10s...
+[1]Liola       |13:44:29 | 09-11-2026| [2/2] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/liolacarlina/status/2119787598751295510
+[1]Liola       |13:44:29 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Liola       |13:44:31 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/liolacarlina/status/2119787911796139546
 --> [1]Liola menjalankan: Watch Anime
-[1]Liola       |11:50:51 | 08-11-2026| watch ERROR: watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:31 | 09-11-2026| watch: semua video sudah completed
 --> [1]Liola menjalankan: Read Article
-[1]Liola       |11:50:53 | 08-11-2026| news: 34/34 artikel selesai dibaca
-[1]Liola       |11:50:54 | 08-11-2026| mint eligibility: {"userId":"2009796173402640384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liolacarlina","status":"submitted","revision":"17745dfd-5a03-42fa-be3c-e8bcb7158
-[1]Liola       |11:50:54 | 08-11-2026| news: semua artikel sudah dibaca
+[1]Liola       |13:44:33 | 09-11-2026| news: 34/34 artikel selesai dibaca
+[1]Liola       |13:44:34 | 09-11-2026| mint eligibility: {"userId":"2009796173402640384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liolacarlina","status":"submitted","revision":"17745dfd-5a03-42fa-be3c-e8bcb7158
+[1]Liola       |13:44:34 | 09-11-2026| news: semua artikel sudah dibaca
 --> [1]Liola menjalankan: Quiz Anime
 --> [1]Liola menjalankan: Music Missions (realtime, bisa lama!)
-[1]Liola       |11:50:57 | 08-11-2026| music: kedua misi sudah tercapai, stop
-[1]Liola       |11:50:58 | 08-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:37 | 09-11-2026| music: kedua misi sudah tercapai, stop
+[1]Liola       |13:44:38 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Liola       |13:44:38 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Liola       |13:44:38 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liola menjalankan: Claim Missions
-[1]Liola       |11:51:00 | 08-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:38 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Liola       |13:44:38 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Liola       |13:44:38 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liola menjalankan: Check Eligibility
 
 --- eligibility [1]Liola ---
-  @liolacarlina | score=2930 rank=2658
-  tasks    [###-----------------] 1/7
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @liolacarlina | score=2990 rank=2618
+  tasks    [##########----------] 2/4
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel  [####################] 34/34
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Liola menjalankan: Read Manga
-[1]Liola       |11:51:07 | 08-11-2026| manga: 0/13 chapter belum completed
+[1]Liola       |13:44:41 | 09-11-2026| manga: 0/13 chapter belum completed
 --> [1]Liola menjalankan: Get Gift
-[1]Liola       |11:51:09 | 08-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:43 | 09-11-2026| gift: 4/10 belum diterima
+[1]Liola       |13:44:46 | 09-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
+[1]Liola       |13:44:49 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Liola       |13:44:51 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Liola       |13:44:54 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Liola menjalankan: Setup Profile
-[1]Liola       |11:51:10 | 08-11-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:57 | 09-11-2026| profile: bio="https://x.com/liolacarlina" fav=yuki rewardAt=1791694489
+[1]Liola       |13:44:57 | 09-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Liola menjalankan: Bind Wallet
-[1]Liola       |11:51:11 | 08-11-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Liola       |13:44:58 | 09-11-2026| wallet: sudah terikat E1NuEYPRbU... (solana)
 
 == RINGKASAN ==
-- Liola: daily=claimed | tasks OK 6/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet -
+- Liola: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
